@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed off-by-one error in loop
 - Added inline documentation for core functions
 - Fixed minor edge case in input handling
+
+## 2026-04-15
+- Wrote notes on upcoming feature design

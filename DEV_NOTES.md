@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-15
 - Wrote notes on upcoming feature design
+
+## 2026-04-29
+- Fixed off-by-one error in loop
+- Drafted initial implementation plan for v2
+- Consolidated duplicate helper functions
